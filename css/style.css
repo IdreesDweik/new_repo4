@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+div{
+    background-color: #ccc;
+    padding: 20px;
+    width: 400px;
+    margin: 100px auto;
+}
+h1,h2{
+    background-color: aqua;
+    width: 200px;
+    margin: 10px auto;
+    padding: 20px;
+    text-align: center;
+}
+video{
+    margin-left: 25px;
+    margin-bottom: 10px;
+}
